@@ -3,7 +3,7 @@
 Date: 2026-06-20
 Target used for live checks: `salemove/github-review-helper` on `http://localhost:4567/`
 
-Important: rotate the GitHub token that was pasted into chat before using it
+Important: rotate the token that was pasted into chat before using it
 again. The reproduction below does not require a GitHub token and does not call
 merge, squash, status creation, branch deletion, or comment-writing paths.
 
